@@ -1,5 +1,5 @@
 {
-  "name": "@xhyrom/semver",
+  "name": "@hyro/semver",
   "description": "Simple library for parsing, comparing and validating semver versions",
   "version": "1.0.0",
   "type": "module",
