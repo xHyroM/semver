@@ -1,0 +1,26 @@
+{
+  "name": "@xhyrom/semver",
+  "description": "Simple library for parsing, comparing and validating semver versions",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "private": false,
+  "scripts": {
+    "build": "tsup",
+    "test": "ava"
+  },
+  "author": "xHyroM",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xHyroM/semver.git"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "ava": "^5.2.0",
+    "tsup": "^6.7.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
