@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h4 align="center">Source code for semver, a Ssmple library for parsing, comparing and validating semver versions.</h4>
+<h4 align="center">Source code for semver, a simple library for parsing, comparing and validating semver versions.</h4>
 
 <p align="center">
     <a href="https://discord.gg/kFPKmEKeMS/" alt="Discord">
